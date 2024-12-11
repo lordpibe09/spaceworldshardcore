@@ -2779,6 +2779,12 @@
     },
     "done": true
   },
+  "scguns:main/craft_bullet_mold": {
+    "criteria": {
+      "bullet_mold": "2024-12-11 13:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-11 13:53:23 +0000"
@@ -2794,12 +2800,6 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-11 13:53:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-11 14:12:17 +0000"
     },
     "done": true
   },
@@ -2827,33 +2827,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-11 13:56:18 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_bullet_mold": {
-    "criteria": {
-      "bullet_mold": "2024-12-11 13:47:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-11 13:53:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-11 13:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-11 14:12:17 +0000"
     },
     "done": true
   },
@@ -2863,15 +2839,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-11 13:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 13:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 13:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-11 14:12:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_blue_dye": "2024-12-11 13:53:23 +0000"
+      "has_blaze_powder": "2024-12-11 14:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-11 14:12:17 +0000"
     },
     "done": true
   },
