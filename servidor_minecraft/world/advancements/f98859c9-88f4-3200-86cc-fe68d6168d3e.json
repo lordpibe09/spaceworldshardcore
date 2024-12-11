@@ -1,0 +1,28 @@
+{
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2024-12-08 17:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-08 17:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-12-08 17:21:50 +0000",
+      "minecraft:plains": "2024-12-08 17:21:12 +0000"
+    },
+    "done": false
+  },
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-08 17:21:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

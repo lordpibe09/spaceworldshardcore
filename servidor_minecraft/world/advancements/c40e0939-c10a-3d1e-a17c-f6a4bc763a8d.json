@@ -1,0 +1,27 @@
+{
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2024-12-08 17:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-08 17:34:36 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-08 17:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-08 17:34:37 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
