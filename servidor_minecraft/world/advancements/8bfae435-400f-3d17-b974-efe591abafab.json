@@ -400,6 +400,7 @@
       "golden_apple": "2024-12-09 00:05:53 +0000",
       "rotten_flesh": "2024-12-08 23:55:57 +0000",
       "salmon": "2024-12-09 16:09:36 +0000",
+      "golden_carrot": "2024-12-11 16:51:03 +0000",
       "mushroom_stew": "2024-12-08 22:42:11 +0000"
     },
     "done": false
@@ -2184,6 +2185,54 @@
   "zombiekit:leon": {
     "criteria": {
       "leon": "2024-12-09 18:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-11 16:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-11 16:43:43 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/lockewood": {
+    "criteria": {
+      "lockewood": "2024-12-11 16:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-11 16:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-11 16:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-11 16:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-11 16:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-11 16:49:10 +0000"
     },
     "done": true
   },
