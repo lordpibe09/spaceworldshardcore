@@ -1346,3 +1346,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 14:24:27.581] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
 [11Dec2024 14:25:40.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
 [11Dec2024 14:25:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[11Dec2024 14:36:20.226] [ForkJoinPool.commonPool-worker-26/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[11Dec2024 14:36:20.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:51441] logged in with entity id 23232 at (474.0838695409715, 64.08230961125521, 383.7541432388571)
+[11Dec2024 14:36:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
+[11Dec2024 14:38:54.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:60871] logged in with entity id 23951 at (466.15147089934055, 63.5, 362.3291564827739)
+[11Dec2024 14:38:54.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
