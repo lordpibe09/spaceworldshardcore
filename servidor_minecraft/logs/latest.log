@@ -3543,3 +3543,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 16:27:46.620] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
 [11Dec2024 16:27:55.073] [ForkJoinPool.commonPool-worker-57/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> q
 [11Dec2024 16:28:36.656] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[11Dec2024 16:34:51.960] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> vengo
+[11Dec2024 16:34:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to iForming: murio reinskl?
+[11Dec2024 16:34:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Reinksl: murio reinskl?
+[11Dec2024 16:34:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to christopher360: murio reinskl?
+[11Dec2024 16:34:53.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[11Dec2024 16:34:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[11Dec2024 16:34:56.266] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> no
+[11Dec2024 16:34:58.667] [ForkJoinPool.commonPool-worker-58/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> no
+[11Dec2024 16:36:40.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to iForming: forming murio?
+[11Dec2024 16:36:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to christopher360: forming murio?
+[11Dec2024 16:36:42.668] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> shiel
+[11Dec2024 16:36:43.994] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> no
+[11Dec2024 16:36:44.999] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> no
+[11Dec2024 16:36:57.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to iForming: alguno de ustedes murio?
+[11Dec2024 16:36:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to christopher360: alguno de ustedes murio?
+[11Dec2024 16:37:01.499] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> no
+[11Dec2024 16:37:02.081] [ForkJoinPool.commonPool-worker-59/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> no, por ahora no
+[11Dec2024 16:38:31.198] [ForkJoinPool.commonPool-worker-60/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> tactical
+[11Dec2024 16:39:46.230] [ForkJoinPool.commonPool-worker-61/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> tactic shield
+[11Dec2024 16:39:46.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:53441] logged in with entity id 52328 at (475.16761370199833, 63.5, 381.6447367475117)
+[11Dec2024 16:39:46.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
