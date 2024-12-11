@@ -1370,3 +1370,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 14:56:54.429] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> e
 [11Dec2024 14:58:48.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
 [11Dec2024 14:59:05.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[11Dec2024 15:04:28.573] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> 274 -16 581
