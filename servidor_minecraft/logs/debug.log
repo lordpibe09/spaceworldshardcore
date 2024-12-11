@@ -3952,3 +3952,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 13:06:27.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Reinksl: Location (-2267.0, 64.51890563964844, 1399.17816708982) too far away from hit block BlockPos{x=-2266, y=63, z=1399}.
 [11Dec2024 13:08:16.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [11Dec2024 13:08:16.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 13:10:33.229] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[11Dec2024 13:10:33.230] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[11Dec2024 13:10:33.230] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[11Dec2024 13:10:33.231] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[11Dec2024 13:10:33.232] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[11Dec2024 13:10:33.233] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[11Dec2024 13:10:33.296] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[11Dec2024 13:10:33.297] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[11Dec2024 13:10:52.952] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2495, y=72, z=990} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 13:10:52.953] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2495, y=72, z=990}
+[11Dec2024 13:12:36.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2563, y=132, z=987} BlockPos{x=-2562, y=131, z=986}
+[11Dec2024 13:12:46.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
+[11Dec2024 13:12:46.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[11Dec2024 13:13:16.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 13:13:16.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 13:14:28.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Reinksl: Location (-2276.125, 65.55765008926392, 930.6915852427483) too far away from hit block BlockPos{x=-2277, y=64, z=930}.
+[11Dec2024 13:16:30.306] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=57, z=-52}
+[11Dec2024 13:16:30.307] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=57, z=-51}
+[11Dec2024 13:16:32.385] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=58, z=-50}
+[11Dec2024 13:16:32.385] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=58, z=-53}
+[11Dec2024 13:16:32.386] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=61, z=-53}
+[11Dec2024 13:16:32.386] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=61, z=-52}
+[11Dec2024 13:16:32.386] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=61, z=-51}
+[11Dec2024 13:16:32.386] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-328, y=61, z=-50}
+[11Dec2024 13:17:23.857] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.857] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.858] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.858] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.858] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.859] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.859] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.859] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.860] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.860] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.860] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.860] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:17:23.861] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[11Dec2024 13:18:16.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 13:18:16.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 13:18:56.861] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> e
+[11Dec2024 13:20:01.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[11Dec2024 13:20:01.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[11Dec2024 13:20:01.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42469ms or 849 ticks behind
