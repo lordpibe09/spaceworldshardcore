@@ -2779,5 +2779,11 @@
     },
     "done": true
   },
+  "scguns:main/craft_bullet_mold": {
+    "criteria": {
+      "bullet_mold": "2024-12-11 13:47:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

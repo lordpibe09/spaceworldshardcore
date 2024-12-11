@@ -1327,3 +1327,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 13:41:01.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
 [11Dec2024 13:41:01.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
 [11Dec2024 13:41:01.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 58203ms or 1164 ticks behind
+[11Dec2024 13:41:27.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:60943] logged in with entity id 17112 at (245.86882838733075, 62.073264324665075, 316.3784290527277)
+[11Dec2024 13:41:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[11Dec2024 13:41:46.264] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> e
+[11Dec2024 13:42:03.449] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> e
+[11Dec2024 13:42:12.167] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> y
+[11Dec2024 13:42:37.106] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> e
+[11Dec2024 13:42:44.116] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 13:44:26.465] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 13:45:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 13:45:24.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MSG @A A<--[HERE]
+[11Dec2024 13:45:30.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Reinksl: a
