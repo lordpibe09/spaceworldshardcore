@@ -1371,3 +1371,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 14:58:48.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
 [11Dec2024 14:59:05.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
 [11Dec2024 15:04:28.573] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> 274 -16 581
+[11Dec2024 15:14:22.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 65.08603096008301, 362.68982779979706) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:14:22.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 64.74477064609528, 362.5707383155823) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:14:22.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 64.73743331432343, 362.5676020383835) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:14:23.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 64.73743331432343, 362.5676020383835) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:15:12.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Disconnected
+[11Dec2024 15:15:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game

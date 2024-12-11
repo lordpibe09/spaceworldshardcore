@@ -5644,3 +5644,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 15:04:28.573] [ForkJoinPool.commonPool-worker-34/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> 274 -16 581
 [11Dec2024 15:09:08.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [11Dec2024 15:09:08.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 15:14:08.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 15:14:08.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 15:14:22.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 65.08603096008301, 362.68982779979706) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:14:22.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 64.74477064609528, 362.5707383155823) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:14:22.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 64.73743331432343, 362.5676020383835) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:14:23.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from christopher360: Location (470.0, 64.73743331432343, 362.5676020383835) too far away from hit block BlockPos{x=469, y=64, z=361}.
+[11Dec2024 15:15:12.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Disconnected
+[11Dec2024 15:15:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[11Dec2024 15:19:08.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 15:19:08.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
