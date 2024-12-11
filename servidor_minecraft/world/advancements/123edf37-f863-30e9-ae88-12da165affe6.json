@@ -528,7 +528,8 @@
       "minecraft:cave_spider": "2024-12-10 20:13:43 +0000",
       "minecraft:enderman": "2024-12-10 19:42:22 +0000",
       "minecraft:zombie": "2024-12-08 17:20:25 +0000",
-      "minecraft:drowned": "2024-12-09 00:19:12 +0000"
+      "minecraft:drowned": "2024-12-09 00:19:12 +0000",
+      "minecraft:zombie_villager": "2024-12-11 16:55:21 +0000"
     },
     "done": false
   },
@@ -2854,6 +2855,24 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-11 15:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-11 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-11 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-11 16:54:41 +0000"
     },
     "done": true
   },

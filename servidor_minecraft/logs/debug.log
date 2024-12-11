@@ -10838,3 +10838,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 16:52:31.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [11Dec2024 16:52:31.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [11Dec2024 16:52:54.917] [ForkJoinPool.commonPool-worker-63/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> stove
+[11Dec2024 16:57:31.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 16:57:31.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 16:58:24.767] [Server thread/WARN] [scguns/]: literal{Reinksl}(2de748e9-daeb-3ef7-b05f-fe8f7911f0b5) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 105
+[11Dec2024 16:59:00.138] [ForkJoinPool.commonPool-worker-64/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 17:01:00.766] [ForkJoinPool.commonPool-worker-65/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 17:01:02.368] [ForkJoinPool.commonPool-worker-65/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 17:01:05.571] [ForkJoinPool.commonPool-worker-65/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> asd
+[11Dec2024 17:01:08.338] [ForkJoinPool.commonPool-worker-65/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> e
+[11Dec2024 17:02:31.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 17:02:31.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[11Dec2024 17:03:56.432] [ForkJoinPool.commonPool-worker-66/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
