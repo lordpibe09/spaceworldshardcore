@@ -3602,3 +3602,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 17:27:28.267] [ForkJoinPool.commonPool-worker-71/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
 [11Dec2024 17:27:46.615] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 20
 [11Dec2024 17:28:36.619] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 20
+[11Dec2024 17:36:28.467] [ForkJoinPool.commonPool-worker-72/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> tomahawk
+[11Dec2024 17:39:08.877] [ForkJoinPool.commonPool-worker-73/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> tomahawk

@@ -2201,6 +2201,12 @@
     },
     "done": true
   },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2024-12-11 17:40:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-11 16:55:29 +0000"
@@ -2246,6 +2252,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-11 16:55:36 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_gun_parts_mold": {
+    "criteria": {
+      "gun_parts_mold": "2024-12-11 17:39:36 +0000"
     },
     "done": true
   },
@@ -2348,6 +2360,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-11 16:49:10 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/end/raygun": {
+    "criteria": {
+      "raygun": "2024-12-11 17:41:06 +0000"
     },
     "done": true
   },
