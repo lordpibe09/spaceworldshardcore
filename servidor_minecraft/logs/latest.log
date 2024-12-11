@@ -1079,3 +1079,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 23:45:33.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [11Dec2024 23:45:33.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [11Dec2024 23:45:33.509] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[11Dec2024 23:52:46.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[11Dec2024 23:52:58.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 23:52:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to christopher360: a
+[11Dec2024 23:52:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to g5e3zGiuseppe: a
+[11Dec2024 23:52:59.769] [ForkJoinPool.commonPool-worker-4/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> a
