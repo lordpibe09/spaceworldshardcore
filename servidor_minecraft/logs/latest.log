@@ -3583,3 +3583,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 17:03:56.432] [ForkJoinPool.commonPool-worker-66/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
 [11Dec2024 17:09:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl has made the advancement [The Cutest Predator]
 [11Dec2024 17:14:28.719] [ForkJoinPool.commonPool-worker-67/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> ya vengo
+[11Dec2024 17:14:40.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[11Dec2024 17:14:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[11Dec2024 17:19:17.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:48193] logged in with entity id 65408 at (471.69999998807907, -41.0, 652.328932972794)
+[11Dec2024 17:19:17.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[11Dec2024 17:22:30.967] [ForkJoinPool.commonPool-worker-70/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> asd
+[11Dec2024 17:22:46.960] [ForkJoinPool.commonPool-worker-70/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> christopher360
+[11Dec2024 17:23:00.801] [ForkJoinPool.commonPool-worker-70/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> QUE
+[11Dec2024 17:23:09.722] [ForkJoinPool.commonPool-worker-70/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> se me buguio el dc
+[11Dec2024 17:23:13.645] [ForkJoinPool.commonPool-worker-70/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> xd
+[11Dec2024 17:24:26.565] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@594be048]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[11Dec2024 17:24:26.565] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3ac9cc5b
+[11Dec2024 17:24:26.565] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 0
+[11Dec2024 17:24:26.617] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 20
