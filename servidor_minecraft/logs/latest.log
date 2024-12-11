@@ -1354,3 +1354,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 14:42:07.071] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> phospor
 [11Dec2024 14:42:13.121] [ForkJoinPool.commonPool-worker-30/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> phosphor
 [11Dec2024 14:48:53.133] [ForkJoinPool.commonPool-worker-31/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> vest
+[11Dec2024 14:52:58.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 moved too quickly! -10.001611499334842,2.249187078744683,0.1542819616848874
+[11Dec2024 14:56:01.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Disconnected
+[11Dec2024 14:56:01.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[11Dec2024 14:56:01.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[11Dec2024 14:56:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[11Dec2024 14:56:01.340] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 14:56:01.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43839ms or 876 ticks behind
+[11Dec2024 14:56:10.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:36981] logged in with entity id 28167 at (488.1428412389102, 71.16610926093821, 368.3335492996294)
+[11Dec2024 14:56:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[11Dec2024 14:56:15.743] [ForkJoinPool.commonPool-worker-32/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[11Dec2024 14:56:15.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:36459] logged in with entity id 28172 at (414.3868322520377, -43.75081292125532, 668.5523170891239)
+[11Dec2024 14:56:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
+[11Dec2024 14:56:50.952] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[11Dec2024 14:56:54.429] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> e
+[11Dec2024 14:58:48.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[11Dec2024 14:59:05.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
