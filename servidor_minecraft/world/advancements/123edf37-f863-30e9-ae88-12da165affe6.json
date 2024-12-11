@@ -2743,6 +2743,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "pufferfish_bucket": "2024-12-11 15:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-11 15:46:10 +0000"
@@ -2818,6 +2824,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2024-12-11 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-11 15:53:55 +0000"
     },
     "done": true
   },

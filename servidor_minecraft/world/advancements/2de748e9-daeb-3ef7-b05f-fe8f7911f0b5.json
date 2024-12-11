@@ -2881,5 +2881,23 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-11 15:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-11 15:52:09 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_vent_collector": {
+    "criteria": {
+      "vent_collector": "2024-12-11 15:56:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

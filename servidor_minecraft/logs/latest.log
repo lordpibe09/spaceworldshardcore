@@ -2510,3 +2510,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 15:53:01.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christopher360) moved too quickly! 4.230633967502456,0.0,-67.06651933771059
 [11Dec2024 15:53:01.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8389ms or 167 ticks behind
 [11Dec2024 15:53:01.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of christopher360) moved too quickly! 3.63057459408725,0.0,-57.485439802486894
+[11Dec2024 15:53:23.224] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/CycleItemsPacket$Type
+[11Dec2024 15:53:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 has made the advancement [What a Deal!]
+[11Dec2024 15:57:15.766] [ForkJoinPool.commonPool-worker-43/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> vent collector
+[11Dec2024 15:57:32.215] [ForkJoinPool.commonPool-worker-43/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> vent collector
+[11Dec2024 16:02:18.541] [ForkJoinPool.commonPool-worker-44/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[11Dec2024 16:02:18.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.99.12.13:35211] logged in with entity id 42452 at (305.9640845667181, 62.07326432466507, -703.0050528006705)
+[11Dec2024 16:02:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
+[11Dec2024 16:03:12.270] [ForkJoinPool.commonPool-worker-44/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> 400 300
