@@ -2876,6 +2876,12 @@
     },
     "done": true
   },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2024-12-12 01:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-12 00:51:03 +0000"
