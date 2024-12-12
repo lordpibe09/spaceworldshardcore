@@ -1,1 +1,5 @@
 [12Dec2024 00:00:33.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[12Dec2024 00:10:11.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[12Dec2024 00:13:16.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:43229] logged in with entity id 10619 at (474.07457723202987, 63.5, 384.2416889735902)
+[12Dec2024 00:13:16.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[12Dec2024 00:14:57.838] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
