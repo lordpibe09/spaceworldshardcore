@@ -3,3 +3,6 @@
 [12Dec2024 00:13:16.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:43229] logged in with entity id 10619 at (474.07457723202987, 63.5, 384.2416889735902)
 [12Dec2024 00:13:16.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
 [12Dec2024 00:14:57.838] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
+[12Dec2024 00:18:30.337] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[12Dec2024 00:18:30.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[12Dec2024 00:24:03.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/effect/CustomExplosion$CustomBlockInteraction
