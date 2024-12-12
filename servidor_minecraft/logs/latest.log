@@ -1079,3 +1079,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 16:47:25.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: g5e3zGiuseppe[/127.61.68.131:50185] logged in with entity id 3942 at (477.33786650971035, 63.5, 363.89687763445767)
 [12Dec2024 16:47:25.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g5e3zGiuseppe joined the game
 [12Dec2024 16:50:26.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/item/attachment/IAttachment$Type
+[12Dec2024 16:52:51.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[12Dec2024 16:52:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl has made the advancement [Surge Protector]
+[12Dec2024 16:52:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g5e3zGiuseppe has made the advancement [Surge Protector]
+[12Dec2024 16:52:54.695] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[12Dec2024 16:52:54.702] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> me muteron
+[12Dec2024 16:52:58.342] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> g5 ya
+[12Dec2024 16:53:00.295] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> te desmutee
+[12Dec2024 16:53:03.648] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> el hdp de forming
+[12Dec2024 16:53:14.097] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> ya
+[12Dec2024 16:53:18.491] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> me tiene suspendido
+[12Dec2024 16:53:21.622] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> ya
+[12Dec2024 16:53:42.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[12Dec2024 16:53:46.443] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> voy a comer
+[12Dec2024 16:53:49.526] [ForkJoinPool.commonPool-worker-5/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> dale
+[12Dec2024 16:55:48.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[12Dec2024 16:55:48.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[12Dec2024 16:57:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a
+[12Dec2024 16:57:39.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to g5e3zGiuseppe: a
+[12Dec2024 16:58:45.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[12Dec2024 16:58:45.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[12Dec2024 17:02:19.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:36271] logged in with entity id 9195 at (2537.2503181615475, -26.0, -4358.29067070421)
+[12Dec2024 17:02:19.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[12Dec2024 17:02:34.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[12Dec2024 17:02:34.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[12Dec2024 17:02:35.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[12Dec2024 17:02:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
