@@ -2876,9 +2876,9 @@
     },
     "done": true
   },
-  "scguns:main/anthralite": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "anthralite_ingot": "2024-12-12 01:07:52 +0000"
+      "has_coal_block": "2024-12-11 23:52:46 +0000"
     },
     "done": true
   },
@@ -2891,12 +2891,6 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-12 00:51:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-12-11 23:52:46 +0000"
     },
     "done": true
   },
@@ -2915,6 +2909,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-12 00:51:41 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2024-12-12 01:07:52 +0000"
     },
     "done": true
   },
