@@ -1455,3 +1455,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 18:54:09.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g5e3zGiuseppe joined the game
 [12Dec2024 18:54:14.591] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> me asuste man
 [12Dec2024 18:54:22.943] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[12Dec2024 18:55:12.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Timed out
+[12Dec2024 18:55:12.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[12Dec2024 18:55:57.175] [ForkJoinPool.commonPool-worker-33/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:55:57.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:37307] logged in with entity id 51384 at (476.1563345798599, 63.5, 382.3643420413424)
+[12Dec2024 18:55:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
+[12Dec2024 18:56:27.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Timed out
+[12Dec2024 18:56:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[12Dec2024 18:57:12.553] [ForkJoinPool.commonPool-worker-34/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:57:12.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:54763] logged in with entity id 51789 at (476.1563345798599, 63.5, 382.3643420413424)
+[12Dec2024 18:57:12.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
+[12Dec2024 18:57:42.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Timed out
+[12Dec2024 18:57:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[12Dec2024 18:57:47.695] [ForkJoinPool.commonPool-worker-34/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:57:47.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.99.12.13:47221] logged in with entity id 51964 at (481.86988285002803, 63.5, 363.4762003508418)
+[12Dec2024 18:57:47.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
+[12Dec2024 18:58:26.838] [ForkJoinPool.commonPool-worker-34/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:58:26.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:56795] logged in with entity id 52137 at (476.1563345798599, 63.5, 382.3643420413424)
+[12Dec2024 18:58:26.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
+[12Dec2024 18:58:49.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:35905] logged in with entity id 52312 at (2516.877509145533, 102.0, -4355.204290578666)
+[12Dec2024 18:58:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[12Dec2024 18:58:56.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Timed out
+[12Dec2024 18:58:56.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[12Dec2024 18:59:25.867] [ForkJoinPool.commonPool-worker-34/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:59:25.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:44557] logged in with entity id 52846 at (476.1563345798599, 63.5, 382.3643420413424)
+[12Dec2024 18:59:25.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
+[12Dec2024 19:00:57.265] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> uh uh
+[12Dec2024 19:01:03.643] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> donde andas putas
+[12Dec2024 19:01:26.943] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> no se
+[12Dec2024 19:01:28.092] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> hola
+[12Dec2024 19:01:33.100] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> donde esta g5
+[12Dec2024 19:01:33.991] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> ?
+[12Dec2024 19:01:44.705] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> yo q se
+[12Dec2024 19:02:07.857] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> no
+[12Dec2024 19:02:55.284] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> mielda
+[12Dec2024 19:03:44.892] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> ya me dio pereza
+[12Dec2024 19:03:45.745] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> RIOTNyx pasa coors o te paso yo??
+[12Dec2024 19:03:46.047] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> ordenar
+[12Dec2024 19:03:47.692] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> los aldeanos
+[12Dec2024 19:04:35.778] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> q
