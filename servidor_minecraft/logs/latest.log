@@ -1229,3 +1229,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 18:03:56.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
 [12Dec2024 18:03:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
 [12Dec2024 18:03:56.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37354ms or 747 ticks behind
+[12Dec2024 18:04:15.656] [ForkJoinPool.commonPool-worker-22/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:04:15.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.99.12.13:41051] logged in with entity id 30973 at (480.50868165517966, 63.99520087700593, 374.2573290248875)
+[12Dec2024 18:04:15.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
+[12Dec2024 18:04:42.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:52923] logged in with entity id 31695 at (335.4902424802084, 70.0, 511.62795562673597)
+[12Dec2024 18:04:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[12Dec2024 18:05:01.591] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> eu
+[12Dec2024 18:05:08.299] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> donde esta para hacer la polvoara
+[12Dec2024 18:05:08.391] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> q
+[12Dec2024 18:05:09.190] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> XD
+[12Dec2024 18:05:16.290] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> atras
+[12Dec2024 18:05:23.090] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> de unas maquinas
+[12Dec2024 18:05:30.263] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> a ya
+[12Dec2024 18:05:38.341] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> namas
+[12Dec2024 18:05:41.755] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> q falta phosphor
+[12Dec2024 18:05:47.378] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> q se hace
+[12Dec2024 18:05:51.294] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> con glowstone
+[12Dec2024 18:06:24.792] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> pero igual phosphor da tambien los estos que dan el niter
+[12Dec2024 18:06:32.921] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> verdad
+[12Dec2024 18:06:35.292] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> soy estupido
+[12Dec2024 18:06:43.957] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> xd
+[12Dec2024 18:07:01.063] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> encontre una nueva fuente de diamantes
+[12Dec2024 18:07:08.093] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> cual?
+[12Dec2024 18:07:19.755] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> en las pretoleras hay tubos q adentro tienen diamantes
+[12Dec2024 18:07:27.655] [ForkJoinPool.commonPool-worker-22/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> por petrolera hay 6 bloques de diamantes
+[12Dec2024 18:07:45.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iForming lost connection: Timed out
+[12Dec2024 18:07:45.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming left the game
+[12Dec2024 18:07:56.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10581ms or 211 ticks behind
+[12Dec2024 18:08:56.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[12Dec2024 18:08:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[12Dec2024 18:08:56.927] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@755c66c8[id=<null>,name=iForming,properties={},legacy=false] (/127.99.12.13:52755) lost connection: Disconnected
+[12Dec2024 18:08:56.928] [ForkJoinPool.commonPool-worker-21/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[12Dec2024 18:08:56.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45090ms or 901 ticks behind
+[12Dec2024 18:09:26.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:34449] logged in with entity id 33049 at (210.69999998807907, 70.0, 461.7443956298126)
+[12Dec2024 18:09:26.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[12Dec2024 18:09:39.765] [ForkJoinPool.commonPool-worker-21/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 18:09:39.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.99.12.13:52181] logged in with entity id 33075 at (480.93369768215723, 59.1289786638085, 379.7722257622666)
+[12Dec2024 18:09:39.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
+[12Dec2024 18:10:40.943] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> hay dios
+[12Dec2024 18:10:42.691] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> casi muero
+[12Dec2024 18:11:05.116] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> x2
+[12Dec2024 18:12:02.777] [ForkJoinPool.commonPool-worker-23/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
