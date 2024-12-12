@@ -1105,3 +1105,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 17:02:34.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [12Dec2024 17:02:35.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
 [12Dec2024 17:02:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[12Dec2024 17:04:44.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:58259] logged in with entity id 9700 at (2537.2503181615475, -26.0, -4358.29067070421)
+[12Dec2024 17:04:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[12Dec2024 17:05:10.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[12Dec2024 17:05:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[12Dec2024 17:07:03.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:42387] logged in with entity id 10239 at (2537.2503181615475, -26.0, -4358.29067070421)
+[12Dec2024 17:07:03.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[12Dec2024 17:08:39.101] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
+[12Dec2024 17:09:57.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx moved too quickly! 0.08056977047635883,0.8232407249357578,10.013716604829824
+[12Dec2024 17:09:57.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28867ms or 577 ticks behind
+[12Dec2024 17:10:46.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[12Dec2024 17:10:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
