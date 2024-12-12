@@ -6,3 +6,16 @@
 [12Dec2024 00:18:30.337] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
 [12Dec2024 00:18:30.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
 [12Dec2024 00:24:03.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/ribs/scguns/effect/CustomExplosion$CustomBlockInteraction
+[12Dec2024 00:42:04.386] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[12Dec2024 00:45:19.240] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@27b75711]Trying to start horde event on day 30 with nextDay 30 and time 18000
+[12Dec2024 00:45:19.244] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@55b0c3a3
+[12Dec2024 00:45:19.245] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 10
+[12Dec2024 00:45:19.246] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@402206e9]Trying to start horde event on day 40 with nextDay 40 and time 18000
+[12Dec2024 00:45:19.246] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6718e035
+[12Dec2024 00:45:19.247] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 20
+[12Dec2024 00:45:19.287] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[12Dec2024 00:45:19.295] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[12Dec2024 00:46:09.286] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[12Dec2024 00:46:09.293] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[12Dec2024 00:46:59.288] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[12Dec2024 00:46:59.294] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
