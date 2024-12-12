@@ -1130,3 +1130,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 17:31:39.396] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12Dec2024 17:31:43.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g5e3zGiuseppe lost connection: Timed out
 [12Dec2024 17:31:43.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g5e3zGiuseppe left the game
+[12Dec2024 17:33:09.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1983104e[id=<null>,name=Reinksl,properties={},legacy=false] (/127.179.118.208:47187) lost connection: Disconnected
+[12Dec2024 17:33:37.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:33271] logged in with entity id 21629 at (481.71132800346896, 65.5, 393.51249998807907)
+[12Dec2024 17:33:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[12Dec2024 17:43:10.612] [ForkJoinPool.commonPool-worker-17/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 17:43:10.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.99.12.13:38467] logged in with entity id 23721 at (441.01329661142097, 75.92159999847412, 376.9897251643715)
+[12Dec2024 17:43:10.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
