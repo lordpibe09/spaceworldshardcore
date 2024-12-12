@@ -1116,3 +1116,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Dec2024 17:09:57.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28867ms or 577 ticks behind
 [12Dec2024 17:10:46.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
 [12Dec2024 17:10:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[12Dec2024 17:23:31.296] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[12Dec2024 17:23:34.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[12Dec2024 17:26:19.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to g5e3zGiuseppe: a
+[12Dec2024 17:26:53.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:50131] logged in with entity id 19418 at (2504.4454428804497, 102.0, -4362.699999988079)
+[12Dec2024 17:26:53.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[12Dec2024 17:27:58.393] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> g5e3zGiuseppe pasa cords
+[12Dec2024 17:28:08.504] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> parA??
+[12Dec2024 17:28:24.349] [ForkJoinPool.commonPool-worker-13/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> quieres pvp??
+[12Dec2024 17:30:25.533] [ForkJoinPool.commonPool-worker-14/INFO] [net.minecraft.server.MinecraftServer/]: <g5e3zGiuseppe> pasa coordenadas
+[12Dec2024 17:31:39.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[12Dec2024 17:31:39.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[12Dec2024 17:31:39.396] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Dec2024 17:31:43.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g5e3zGiuseppe lost connection: Timed out
+[12Dec2024 17:31:43.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g5e3zGiuseppe left the game
