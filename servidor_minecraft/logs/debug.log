@@ -3864,3 +3864,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 23:52:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to christopher360: a
 [11Dec2024 23:52:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to g5e3zGiuseppe: a
 [11Dec2024 23:52:59.769] [ForkJoinPool.commonPool-worker-4/INFO] [net.minecraft.server.MinecraftServer/]: <christopher360> a
+[11Dec2024 23:56:36.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[11Dec2024 23:56:36.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[12Dec2024 00:00:33.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[12Dec2024 00:01:36.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[12Dec2024 00:01:36.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
