@@ -4,7 +4,7 @@
 ["Starting Configurations"]
 	#This is how many lives you'll start out with in the world.
 	#Range: > 1
-	"Starting Lives:" = 10
+	"Starting Lives:" = 3
 	#This is how many lives you'll lose every death.
 	#Range: > 1
 	"Amount of Lives Lost Per Death:" = 1

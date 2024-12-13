@@ -1634,15 +1634,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-13 22:34:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-12-13 22:27:09 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2024-12-13 22:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-13 22:34:15 +0000"
     },
     "done": true
   },
@@ -1739,12 +1745,6 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 22:34:15 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/sulfur_chunk": {
-    "criteria": {
-      "sulfur_chunk": "2024-12-13 22:30:21 +0000"
     },
     "done": true
   },

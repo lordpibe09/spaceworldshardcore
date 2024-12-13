@@ -31,6 +31,7 @@
       "minecraft:wooded_badlands": "2024-12-09 20:18:59 +0000",
       "minecraft:beach": "2024-12-07 14:37:28 +0000",
       "minecraft:dark_forest": "2024-12-08 16:40:57 +0000",
+      "minecraft:mangrove_swamp": "2024-12-13 23:21:58 +0000",
       "minecraft:sparse_jungle": "2024-12-08 17:29:23 +0000",
       "minecraft:lukewarm_ocean": "2024-12-07 14:32:45 +0000",
       "minecraft:river": "2024-12-07 14:33:19 +0000",
@@ -48,6 +49,7 @@
       "minecraft:windswept_forest": "2024-12-12 23:07:44 +0000",
       "minecraft:ocean": "2024-12-07 14:37:29 +0000",
       "minecraft:jungle": "2024-12-08 16:41:16 +0000",
+      "minecraft:windswept_savanna": "2024-12-13 23:21:39 +0000",
       "minecraft:warm_ocean": "2024-12-09 01:18:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-08 16:52:37 +0000",
       "minecraft:flower_forest": "2024-12-13 00:25:57 +0000",
@@ -1446,6 +1448,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-13 22:33:03 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/ocean/sequoia": {
+    "criteria": {
+      "sequoia": "2024-12-13 23:20:59 +0000"
     },
     "done": true
   },
