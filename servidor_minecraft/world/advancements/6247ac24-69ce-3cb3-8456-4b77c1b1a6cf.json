@@ -1571,6 +1571,12 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel/uppercut": {
+    "criteria": {
+      "uppercut": "2024-12-13 23:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 22:40:35 +0000"

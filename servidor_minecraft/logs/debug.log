@@ -6541,3 +6541,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:43:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to ByAnderconL]
 [13Dec2024 23:43:51.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_gate
 [13Dec2024 23:43:51.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/broken_basement
+[13Dec2024 23:45:28.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[13Dec2024 23:45:28.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[13Dec2024 23:47:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo has made the advancement [Acquire Hardware]
+[13Dec2024 23:47:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Diamonds!]
+[13Dec2024 23:50:07.610] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> mony y esa conexion decadente
+[13Dec2024 23:50:17.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Dec2024 23:50:17.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[13Dec2024 23:50:18.475] [ForkJoinPool.commonPool-worker-35/INFO] [net.minecraft.server.MinecraftServer/]: <ByAnderconL> cierra el poto
+[13Dec2024 23:50:28.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[13Dec2024 23:50:28.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[13Dec2024 23:50:30.285] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/CycleItemsPacket$Type
+[13Dec2024 23:50:48.286] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:dungeon' in chunk [158, -244], discarding
+[13Dec2024 23:50:50.630] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:dungeon' in chunk [158, -243], discarding
+[13Dec2024 23:50:54.297] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:dungeon' in chunk [158, -242], discarding
+[13Dec2024 23:50:54.318] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [144, -233], discarding
+[13Dec2024 23:50:54.319] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [145, -233], discarding
+[13Dec2024 23:50:54.320] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [146, -233], discarding
+[13Dec2024 23:50:54.320] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [147, -233], discarding
+[13Dec2024 23:50:55.741] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [144, -232], discarding
+[13Dec2024 23:50:55.742] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [145, -232], discarding
+[13Dec2024 23:50:57.898] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [146, -232], discarding
+[13Dec2024 23:50:57.905] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [144, -231], discarding
+[13Dec2024 23:50:57.906] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [145, -231], discarding
+[13Dec2024 23:51:01.477] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [147, -232], discarding
+[13Dec2024 23:51:01.478] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [146, -231], discarding
+[13Dec2024 23:51:18.575] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck
+[13Dec2024 23:51:18.575] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck' in chunk [147, -231], discarding
+[13Dec2024 23:51:51.228] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:oildrill
+[13Dec2024 23:51:57.220] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/jungle_shelter
+[13Dec2024 23:53:34.126] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/pond
+[13Dec2024 23:54:16.153] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [127, -272], discarding
+[13Dec2024 23:54:16.154] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:factory
+[13Dec2024 23:54:16.154] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [128, -272], discarding
+[13Dec2024 23:54:16.155] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [129, -272], discarding
+[13Dec2024 23:54:16.155] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory' in chunk [130, -272], discarding
+[13Dec2024 23:54:24.076] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:submarine
+[13Dec2024 23:54:24.077] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [105, 21], discarding
+[13Dec2024 23:54:24.077] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [106, 21], discarding
+[13Dec2024 23:54:24.078] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [107, 21], discarding
+[13Dec2024 23:54:39.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Innolee) moved too quickly! 8.580515129124251,0.0,-5.846993756634106
+[13Dec2024 23:54:39.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Innolee) moved too quickly! 8.931479189609945,0.0,-6.034928711181806
+[13Dec2024 23:54:40.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (1976.2026150226593, 64.8032448887825, -4043.0) too far away from hit block BlockPos{x=1977, y=64, z=-4043}.
+[13Dec2024 23:54:40.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (1976.2026150226593, 64.8032448887825, -4043.0) too far away from hit block BlockPos{x=1977, y=64, z=-4043}.
+[13Dec2024 23:54:41.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (1976.0, 64.93957549333572, -4044.576113730669) too far away from hit block BlockPos{x=1977, y=64, z=-4045}.
+[13Dec2024 23:54:41.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (1976.0, 64.93957549333572, -4044.576113730669) too far away from hit block BlockPos{x=1977, y=64, z=-4045}.
+[13Dec2024 23:54:41.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (1976.0, 64.93957549333572, -4044.576113730669) too far away from hit block BlockPos{x=1977, y=64, z=-4045}.
+[13Dec2024 23:54:41.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from RIOTNyx: Location (1976.0346902608871, 64.9178975224495, -4043.0) too far away from hit block BlockPos{x=1977, y=64, z=-4043}.
