@@ -1392,3 +1392,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:02:30.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=70, z=9}
 [13Dec2024 23:02:31.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=70, z=9}
 [13Dec2024 23:02:55.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:03:26.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou lost connection: Disconnected
+[13Dec2024 23:03:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou left the game
+[13Dec2024 23:04:40.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farmihou[/127.16.167.39:45967] logged in with entity id 29396 at (-1575.699999988079, 59.0, 766.6362382171302)
+[13Dec2024 23:04:40.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou joined the game
+[13Dec2024 23:04:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to 500.500000, 0.000000, 500.500000]
+[13Dec2024 23:04:59.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/scarasol/zombiekit/entity/mechanics/HeavyMachineGunEntity$Direction
+[13Dec2024 23:05:08.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Innolee to Rebondrake5556]
+[13Dec2024 23:05:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to 1000.500000, 0.000000, 1000.500000]
+[13Dec2024 23:05:37.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[13Dec2024 23:05:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Innolee to Rebondrake5556]
+[13Dec2024 23:06:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Innolee to Rebondrake5556]
+[13Dec2024 23:06:10.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou lost connection: Disconnected
+[13Dec2024 23:06:10.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou left the game
+[13Dec2024 23:07:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:07:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Acquire Hardware]
+[13Dec2024 23:07:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:07:44.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:08:03.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:08:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:08:17.750] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:littlehouse
+[13Dec2024 23:08:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:09:15.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:09:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:11:58.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Stone Age]
+[13Dec2024 23:12:11.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Getting an Upgrade]
