@@ -1066,3 +1066,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 22:02:01.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
 [13Dec2024 22:07:35.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [13Dec2024 22:08:35.070] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 22:11:00.320] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Dec2024 22:11:00.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: play_vacuo[/127.31.59.122:52893] logged in with entity id 1223 at (194.5, 70.0, 0.5)
+[13Dec2024 22:11:00.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo joined the game
+[13Dec2024 22:11:00.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[13Dec2024 22:11:01.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[13Dec2024 22:14:05.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d5ebcb7[id=<null>,name=Rebondrake5556,properties={},legacy=false] (/127.223.108.19:34117) lost connection: Disconnected
+[13Dec2024 22:15:22.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=70, z=20}
+[13Dec2024 22:15:22.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=70, z=20}
+[13Dec2024 22:15:23.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=70, z=20}
+[13Dec2024 22:16:00.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: play_vacuo moved wrongly!
+[13Dec2024 22:16:19.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=194, y=65, z=11}
+[13Dec2024 22:18:20.165] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[13Dec2024 22:18:20.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[13Dec2024 22:18:20.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[13Dec2024 22:18:20.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[13Dec2024 22:18:27.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:49871] logged in with entity id 2180 at (-4102.923835613591, 67.0, -256.0820910595876)
+[13Dec2024 22:18:27.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[13Dec2024 22:18:28.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[13Dec2024 22:18:28.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Dec2024 22:18:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[13Dec2024 22:18:50.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:18:55.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[13Dec2024 22:18:55.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Dec2024 22:19:10.534] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-21, 1], discarding
+[13Dec2024 22:19:10.535] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-21, 2], discarding
+[13Dec2024 22:19:10.537] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:submarine
+[13Dec2024 22:19:10.537] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-21, 0], discarding
+[13Dec2024 22:19:13.227] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-22, 0], discarding
+[13Dec2024 22:19:13.230] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-22, 1], discarding
+[13Dec2024 22:19:13.231] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-22, 2], discarding
+[13Dec2024 22:19:15.504] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human
+[13Dec2024 22:19:15.505] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human_2
+[13Dec2024 22:19:15.505] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human_2
+[13Dec2024 22:19:17.686] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-24, 2], discarding
+[13Dec2024 22:19:17.692] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-24, 1], discarding
+[13Dec2024 22:19:17.695] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-24, 0], discarding
+[13Dec2024 22:19:19.880] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-25, 2], discarding
+[13Dec2024 22:19:19.882] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-25, 1], discarding
+[13Dec2024 22:19:19.896] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-25, 0], discarding
+[13Dec2024 22:19:22.479] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-26, 2], discarding
+[13Dec2024 22:19:22.480] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-26, 1], discarding
+[13Dec2024 22:19:22.543] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:boat
+[13Dec2024 22:19:22.546] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:boat' in chunk [-26, 0], discarding
+[13Dec2024 22:19:24.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@633b0127[id=<null>,name=ArazibeMoney50_,properties={},legacy=false] (/127.10.2.120:32925) lost connection: Disconnected
+[13Dec2024 22:19:27.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArazibeMoney50_[/127.10.2.120:57977] logged in with entity id 3332 at (-465.640511607652, -26.0, -1396.7491918186804)
+[13Dec2024 22:19:27.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ joined the game
+[13Dec2024 22:19:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[13Dec2024 22:19:43.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:19:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[13Dec2024 22:19:46.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:21:33.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: play_vacuo lost connection: Disconnected
+[13Dec2024 22:21:33.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo left the game
