@@ -19,10 +19,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-12 20:10:54 +0000",
       "minecraft:mushroom_fields": "2024-12-08 18:41:02 +0000",
       "minecraft:taiga": "2024-12-08 20:54:24 +0000",
       "minecraft:deep_ocean": "2024-12-08 18:43:26 +0000",
       "minecraft:cherry_grove": "2024-12-10 02:06:08 +0000",
+      "minecraft:sunflower_plains": "2024-12-12 20:12:04 +0000",
       "minecraft:birch_forest": "2024-12-08 19:00:26 +0000",
       "minecraft:bamboo_jungle": "2024-12-08 19:03:43 +0000",
       "minecraft:wooded_badlands": "2024-12-09 01:34:09 +0000",
@@ -48,6 +50,7 @@
       "minecraft:snowy_beach": "2024-12-08 20:51:48 +0000",
       "minecraft:warm_ocean": "2024-12-08 21:15:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-08 18:39:20 +0000",
+      "minecraft:flower_forest": "2024-12-12 20:05:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 19:00:17 +0000",
       "minecraft:deep_dark": "2024-12-09 19:31:09 +0000",
       "minecraft:meadow": "2024-12-09 19:22:29 +0000",
@@ -595,12 +598,15 @@
       "minecraft:blaze": "2024-12-08 18:51:01 +0000",
       "minecraft:pillager": "2024-12-09 01:34:33 +0000",
       "minecraft:skeleton": "2024-12-08 19:03:00 +0000",
+      "minecraft:zoglin": "2024-12-13 00:31:27 +0000",
       "minecraft:spider": "2024-12-08 18:51:41 +0000",
       "minecraft:creeper": "2024-12-09 19:20:07 +0000",
       "minecraft:phantom": "2024-12-10 01:51:41 +0000",
+      "minecraft:zombified_piglin": "2024-12-13 00:31:06 +0000",
       "minecraft:witch": "2024-12-08 18:51:08 +0000",
       "minecraft:husk": "2024-12-10 02:22:05 +0000",
-      "minecraft:zombie": "2024-12-08 19:00:12 +0000"
+      "minecraft:zombie": "2024-12-08 19:00:12 +0000",
+      "minecraft:zombie_villager": "2024-12-13 00:08:45 +0000"
     },
     "done": false
   },
@@ -2896,12 +2902,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-12 19:04:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-12 19:03:40 +0000"
@@ -2914,9 +2914,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-12 19:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-12 19:04:32 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:heavy_machine_gun_adv": {
+    "criteria": {
+      "heavy_machine_gun_adv": "2024-12-12 19:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 19:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 19:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-12 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 00:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 00:12:56 +0000"
     },
     "done": true
   },
