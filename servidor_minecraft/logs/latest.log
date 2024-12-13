@@ -1343,3 +1343,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 22:51:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo has made the advancement [Monster Hunter]
 [13Dec2024 22:52:19.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
 [13Dec2024 22:52:36.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordMuevo was slain by Zombie
+[13Dec2024 22:52:41.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordMuevo lost connection: Disconnected
+[13Dec2024 22:52:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordMuevo left the game
+[13Dec2024 22:52:41.933] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 22:53:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:54:02.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordMuevo[/127.75.120.43:41461] logged in with entity id 24616 at (2522.9039919673737, 75.00133597911214, -4301.257765392055)
+[13Dec2024 22:54:02.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordMuevo joined the game
+[13Dec2024 22:54:16.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported LordMuevo to Rebondrake5556]
+[13Dec2024 22:54:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported LordMuevo to Rebondrake5556]
+[13Dec2024 22:54:49.693] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> estoy en el vacio
+[13Dec2024 22:54:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported LordMuevo to Rebondrake5556]
+[13Dec2024 22:54:57.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['LordMuevo'/24146, l='ServerLevel[World]', x=2493.43, y=78.00, z=-4291.55] died: Zombie Player was shot by Rebondrake5556
+[13Dec2024 22:55:18.555] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> muevo
+[13Dec2024 22:55:23.550] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> cuidado
+[13Dec2024 22:55:36.595] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> eso ya fue lag de mi internet xd
+[13Dec2024 22:55:48.586] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> vt alv
+[13Dec2024 22:56:29.633] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@191c3b2a[id=<null>,name=Innolee,properties={},legacy=false] (/127.136.51.188:53869) lost connection: Disconnected
+[13Dec2024 22:56:45.550] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> exijo mi vida por muerte de la
+[13Dec2024 22:56:48.398] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> lag
+[13Dec2024 22:57:19.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farmihou has made the advancement [Hot Stuff]
+[13Dec2024 22:57:23.281] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> lag
+[13Dec2024 22:57:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:57:41.987] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> galleta hacete tp ami
+[13Dec2024 22:57:45.194] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ok
+[13Dec2024 22:57:57.425] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> hostia
+[13Dec2024 22:58:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:59:50.701] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:trappedtruck_2
+[13Dec2024 22:59:50.701] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-105, 63], discarding
+[13Dec2024 22:59:50.704] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-107, 63], discarding
+[13Dec2024 22:59:50.705] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:trappedtruck_2' in chunk [-106, 63], discarding
+[13Dec2024 23:01:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:01:17.389] [ForkJoinPool.commonPool-worker-18/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> farmihou ese internet de bolivia
+[13Dec2024 23:01:27.140] [ForkJoinPool.commonPool-worker-18/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> ni idea
+[13Dec2024 23:01:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:01:53.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Innolee[/127.136.51.188:41335] logged in with entity id 27908 at (196.5, 70.0, 0.5)
+[13Dec2024 23:01:53.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee joined the game
+[13Dec2024 23:02:18.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=207, y=69, z=11}
+[13Dec2024 23:02:18.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=207, y=69, z=11}
+[13Dec2024 23:02:19.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=207, y=69, z=12}
+[13Dec2024 23:02:19.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=207, y=69, z=11}
+[13Dec2024 23:02:27.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=205, y=70, z=12}
+[13Dec2024 23:02:29.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=69, z=11}
+[13Dec2024 23:02:29.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=70, z=11}
+[13Dec2024 23:02:29.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=70, z=10}
+[13Dec2024 23:02:29.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=70, z=8}
+[13Dec2024 23:02:30.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=203, y=70, z=9}
+[13Dec2024 23:02:30.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=70, z=8}
+[13Dec2024 23:02:30.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=70, z=9}
+[13Dec2024 23:02:31.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=70, z=9}
+[13Dec2024 23:02:55.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
