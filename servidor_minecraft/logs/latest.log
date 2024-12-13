@@ -1183,3 +1183,163 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 22:31:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Adventure Mode]
 [13Dec2024 22:31:32.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
 [13Dec2024 22:31:51.433] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> mira
+[13Dec2024 22:32:24.756] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> aaa yaaa
+[13Dec2024 22:32:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Spectator Mode]
+[13Dec2024 22:32:58.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Survival Mode]
+[13Dec2024 22:33:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 has made the advancement [Diamonds!]
+[13Dec2024 22:33:06.863] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> si
+[13Dec2024 22:33:15.904] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> grax
+[13Dec2024 22:33:20.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:33:27.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:33:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:33:43.725] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> galleta pq tanto lag
+[13Dec2024 22:33:44.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Spectator Mode]
+[13Dec2024 22:33:47.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Survival Mode]
+[13Dec2024 22:33:50.435] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> ayer no estaba asi
+[13Dec2024 22:33:51.240] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> yo no tengolag
+[13Dec2024 22:34:09.282] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> apenas tengo 1 barrita
+[13Dec2024 22:34:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Spectator Mode]
+[13Dec2024 22:34:25.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordMuevo[/127.75.120.43:43655] logged in with entity id 12198 at (2518.407138531776, 101.9375, -4361.994264434841)
+[13Dec2024 22:34:25.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordMuevo joined the game
+[13Dec2024 22:34:26.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Survival Mode]
+[13Dec2024 22:34:30.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Spectator Mode]
+[13Dec2024 22:34:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set play_vacuo's game mode to Survival Mode]
+[13Dec2024 22:34:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:35:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ fell from a high place
+[13Dec2024 22:35:08.523] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> NO
+[13Dec2024 22:35:11.277] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> NO
+[13Dec2024 22:35:12.698] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> q vrg
+[13Dec2024 22:35:24.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:35:28.701] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> sali volando a fuera del mundo
+[13Dec2024 22:35:33.528] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> wtf
+[13Dec2024 22:35:35.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to ArazibeMoney50_]
+[13Dec2024 22:35:51.525] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> tenei pruebas
+[13Dec2024 22:36:06.047] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no ando grabando
+[13Dec2024 22:36:37.444] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> lit sali volando y cai fuera del mundo xd
+[13Dec2024 22:37:13.426] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> te voy a creer
+[13Dec2024 22:37:28.324] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> haste tp a your cosas
+[13Dec2024 22:37:31.937] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: modern_structures:submarine
+[13Dec2024 22:37:31.937] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-21, -21], discarding
+[13Dec2024 22:37:31.938] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-21, -20], discarding
+[13Dec2024 22:37:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to ArazibeMoney50_]
+[13Dec2024 22:37:40.220] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Dec2024 22:37:42.897] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-22, -20], discarding
+[13Dec2024 22:37:42.900] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:submarine' in chunk [-22, -21], discarding
+[13Dec2024 22:37:50.733] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[13Dec2024 22:37:50.998] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human
+[13Dec2024 22:37:50.998] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human
+[13Dec2024 22:37:50.999] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human_2
+[13Dec2024 22:37:51.002] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human_2
+[13Dec2024 22:37:51.002] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id modern_structures:human_2
+[13Dec2024 22:38:23.811] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> no tengo tp
+[13Dec2024 22:38:36.696] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> pasame las cords
+[13Dec2024 22:38:42.124] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> no tenias map?
+[13Dec2024 22:38:44.132] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> pa q sea mas justo te doy el estack q tengo de hierro el oro y ps los minerales
+[13Dec2024 22:38:50.173] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> si pero no me deja hacer tp
+[13Dec2024 22:38:50.707] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ok
+[13Dec2024 22:38:56.557] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> aver
+[13Dec2024 22:39:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Made ArazibeMoney50_ a server operator]
+[13Dec2024 22:39:02.791] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ahora
+[13Dec2024 22:39:07.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ArazibeMoney50_: Teleported ArazibeMoney50_ to -389.500000, -41.000000, -1404.500000]
+[13Dec2024 22:39:09.924] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> estoy
+[13Dec2024 22:39:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Made ArazibeMoney50_ no longer a server operator]
+[13Dec2024 22:39:33.086] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya
+[13Dec2024 22:39:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set ArazibeMoney50_'s game mode to Survival Mode]
+[13Dec2024 22:39:57.661] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> toma
+[13Dec2024 22:40:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:40:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou moved too quickly! -10.017840792032302,0.24785109963254115,2.25096198109361
+[13Dec2024 22:40:49.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou moved too quickly! 5.330144277330419,0.023088109101550458,8.714570153271325
+[13Dec2024 22:40:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:41:12.531] [ForkJoinPool.commonPool-worker-12/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> ya vengo voy a comer
+[13Dec2024 22:41:13.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou moved too quickly! -4.0366519121671445,0.0,-9.50214226714263
+[13Dec2024 22:41:13.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArazibeMoney50_ lost connection: Disconnected
+[13Dec2024 22:41:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ArazibeMoney50_ left the game
+[13Dec2024 22:41:16.836] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
+[13Dec2024 22:42:12.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported play_vacuo to Rebondrake5556]
+[13Dec2024 22:42:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:42:15.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Dec2024 22:42:15.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Dec2024 22:42:27.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[13Dec2024 22:42:38.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou moved too quickly! 6.830075628432041,-0.3693736602695026,7.582785804516448
+[13Dec2024 22:42:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:42:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:43:14.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farmihou moved too quickly! 10.056415271556716,0.0,-1.4463658267056871
+[13Dec2024 22:43:47.121] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[13Dec2024 22:44:08.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported play_vacuo to LordMuevo]
+[13Dec2024 22:45:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo has made the advancement [Stone Age]
+[13Dec2024 22:45:14.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LordMuevo: Skin changed]
+[13Dec2024 22:45:26.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LordMuevo: Skin changed]
+[13Dec2024 22:45:49.825] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 22:46:16.575] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@ebeeb93]Trying to start horde event on day 50 with nextDay 50 and time 18000
+[13Dec2024 22:46:16.577] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@11113282
+[13Dec2024 22:46:16.577] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[13Dec2024 22:46:16.577] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[13Dec2024 22:46:16.578] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 40
+[13Dec2024 22:46:16.578] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[13Dec2024 22:46:16.578] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[13Dec2024 22:46:16.579] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@1b2ba0e3]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[13Dec2024 22:46:16.579] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3417e7ac
+[13Dec2024 22:46:16.579] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[13Dec2024 22:46:16.580] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[13Dec2024 22:46:16.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:46:16.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:46:16.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 50
+[13Dec2024 22:46:16.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 50
+[13Dec2024 22:46:16.631] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:46:16.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:46:16.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:46:16.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:47:06.623] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:47:06.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:47:06.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[13Dec2024 22:47:06.624] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[13Dec2024 22:47:06.629] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:47:06.630] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:47:06.630] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:47:06.630] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:47:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo has made the advancement [Getting an Upgrade]
+[13Dec2024 22:47:56.640] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:47:56.641] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:47:56.641] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[13Dec2024 22:47:56.641] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[13Dec2024 22:47:56.648] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:47:56.648] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:47:56.648] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:47:56.649] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:48:46.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:48:46.633] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:48:46.633] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[13Dec2024 22:48:46.633] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[13Dec2024 22:48:46.638] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:48:46.639] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:48:46.639] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:48:46.639] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:49:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo was slain by LordMuevo
+[13Dec2024 22:49:15.832] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> NO
+[13Dec2024 22:49:20.930] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> ASESINO
+[13Dec2024 22:49:25.503] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <Farmihou> eso se puede?
+[13Dec2024 22:49:32.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported play_vacuo to LordMuevo]
+[13Dec2024 22:49:36.640] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:49:36.640] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:49:36.641] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[13Dec2024 22:49:36.641] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[13Dec2024 22:49:36.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:49:36.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:49:36.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:49:36.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:49:43.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 22:50:17.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/entity/ShootResult
+[13Dec2024 22:50:26.646] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:50:26.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[13Dec2024 22:50:26.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[13Dec2024 22:50:26.647] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[13Dec2024 22:50:26.654] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:50:26.654] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[13Dec2024 22:50:26.654] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:50:26.654] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[13Dec2024 22:51:06.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[13Dec2024 22:51:40.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[13Dec2024 22:51:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[13Dec2024 22:51:50.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo has made the advancement [Monster Hunter]
+[13Dec2024 22:52:19.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 22:52:36.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordMuevo was slain by Zombie
