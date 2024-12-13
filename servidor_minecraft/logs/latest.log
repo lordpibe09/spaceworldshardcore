@@ -1417,3 +1417,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:09:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
 [13Dec2024 23:11:58.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Stone Age]
 [13Dec2024 23:12:11.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Getting an Upgrade]
+[13Dec2024 23:13:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Monster Hunter]
+[13Dec2024 23:16:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee has made the advancement [Not Today, Thank You]
+[13Dec2024 23:16:25.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.135.191.121:35575] logged in with entity id 36549 at (2493.699999988079, 78.0, -4276.699999988079)
+[13Dec2024 23:16:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[13Dec2024 23:17:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:17:04.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: play_vacuo has made the advancement [Suit Up]
+[13Dec2024 23:17:40.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:17:46.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:18:41.531] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> MUEVO
+[13Dec2024 23:18:45.025] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> q
+[13Dec2024 23:18:45.601] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> DAME EL ORO
+[13Dec2024 23:20:07.378] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 200
+[13Dec2024 23:20:22.155] [Server thread/WARN] [scguns/]: literal{Rebondrake5556}(6247ac24-69ce-3cb3-8456-4b77c1b1a6cf) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 105
+[13Dec2024 23:21:28.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Innolee: Location (1230.75, 64.20621156692505, 642.4286057949066) too far away from hit block BlockPos{x=1229, y=63, z=642}.
+[13Dec2024 23:21:36.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:21:47.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:22:32.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee was executed by Rebondrake5556
+[13Dec2024 23:22:39.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=71, z=2}
+[13Dec2024 23:22:44.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=194, y=70, z=8}
+[13Dec2024 23:22:44.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=194, y=70, z=10}
+[13Dec2024 23:22:44.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=194, y=70, z=11}
+[13Dec2024 23:22:44.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=194, y=70, z=13}
+[13Dec2024 23:22:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Innolee to Rebondrake5556]
+[13Dec2024 23:22:56.785] [ForkJoinPool.commonPool-worker-25/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> mas separado vacuo
+[13Dec2024 23:23:00.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Rebondrake5556: Location (1230.6528910398483, 64.3125, 641.7139285206795) too far away from hit block BlockPos{x=1229, y=63, z=642}.
+[13Dec2024 23:23:15.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Innolee was eliminated by Rebondrake5556
+[13Dec2024 23:23:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Innolee to Rebondrake5556]

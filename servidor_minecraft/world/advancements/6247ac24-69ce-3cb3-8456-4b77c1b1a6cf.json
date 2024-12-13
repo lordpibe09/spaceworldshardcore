@@ -1431,6 +1431,12 @@
     },
     "done": true
   },
+  "scguns:main/end/lone_wonder": {
+    "criteria": {
+      "lone_wonder": "2024-12-13 23:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-13 22:40:33 +0000"
@@ -1443,9 +1449,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 23:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:17:21 +0000"
     },
     "done": true
   },
@@ -1527,9 +1545,21 @@
     },
     "done": true
   },
+  "scguns:main/scorched/earths_corpse": {
+    "criteria": {
+      "earths_corpse": "2024-12-13 23:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/piglin/pyroclastic_flow": {
+    "criteria": {
+      "pyroclastic_flow": "2024-12-13 23:18:04 +0000"
     },
     "done": true
   },
@@ -1563,15 +1593,39 @@
     },
     "done": true
   },
+  "scguns:main/deep_dark/whispers": {
+    "criteria": {
+      "whispers": "2024-12-13 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/piglin/super_shotgun": {
+    "criteria": {
+      "super_shotgun": "2024-12-13 23:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-13 22:33:03 +0000"
     },
     "done": true
   },
+  "scguns:main/scorched/locust": {
+    "criteria": {
+      "locust": "2024-12-13 23:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/piglin/blasphemy": {
+    "criteria": {
+      "blasphemy": "2024-12-13 23:18:08 +0000"
     },
     "done": true
   },
@@ -1602,6 +1656,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/rat_king_and_queen": {
+    "criteria": {
+      "rat_king_and_queen": "2024-12-13 23:19:50 +0000"
     },
     "done": true
   },
