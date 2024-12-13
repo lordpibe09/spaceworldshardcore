@@ -1549,3 +1549,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:30:07.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Innolee: Location (1228.322111070156, 64.3125, 642.3762108981609) too far away from hit block BlockPos{x=1229, y=63, z=642}.
 [13Dec2024 23:33:21.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClinicaSanPablo[/127.128.175.180:53729] logged in with entity id 49082 at (-4811.091886075195, 62.024424088213685, -2028.1456632380396)
 [13Dec2024 23:33:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClinicaSanPablo joined the game
+[13Dec2024 23:34:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:34:48.399] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Dec2024 23:35:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:35:29.241] [ForkJoinPool.commonPool-worker-31/INFO] [net.minecraft.server.MinecraftServer/]: <ArazibeMoney50_> es de dia o de noche?
+[13Dec2024 23:36:37.437] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> vacuo
+[13Dec2024 23:36:40.389] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> muevo unite a la llamada
+[13Dec2024 23:36:45.589] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> losmsaplings estan muy cerca unos de otros
+[13Dec2024 23:36:49.840] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> porq
+[13Dec2024 23:36:50.111] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'modern_structures:factory_2' in chunk [-4, -82], discarding
+[13Dec2024 23:36:50.704] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <play_vacuo> diga?
+[13Dec2024 23:36:59.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported ClinicaSanPablo to RIOTNyx]
+[13Dec2024 23:37:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:37:34.384] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <play_vacuo> cuantos espacios de diferencia debe haber?
+[13Dec2024 23:37:42.862] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <play_vacuo> 5 bloques?
+[13Dec2024 23:37:44.083] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> fijate
+[13Dec2024 23:37:47.009] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <LordMuevo> si
+[13Dec2024 23:37:56.580] [ForkJoinPool.commonPool-worker-32/INFO] [net.minecraft.server.MinecraftServer/]: <play_vacuo> ok
+[13Dec2024 23:38:10.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2492, y=78, z=-4277} BlockPos{x=2492, y=77, z=-4277}
+[13Dec2024 23:38:11.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2492, y=78, z=-4277} BlockPos{x=2492, y=77, z=-4277}
+[13Dec2024 23:40:31.720] [ForkJoinPool.commonPool-worker-33/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Dec2024 23:40:31.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByAnderconL[/127.20.189.209:50629] logged in with entity id 56240 at (2554.7019707379113, 77.0, -4347.141096960033)
+[13Dec2024 23:40:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByAnderconL joined the game
+[13Dec2024 23:40:57.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordMuevo lost connection: Disconnected
+[13Dec2024 23:40:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordMuevo left the game
+[13Dec2024 23:41:14.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[13Dec2024 23:42:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[13Dec2024 23:43:07.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to ByAnderconL]
+[13Dec2024 23:43:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Teleported Rebondrake5556 to ByAnderconL]
